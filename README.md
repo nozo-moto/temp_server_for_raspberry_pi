@@ -4,6 +4,8 @@
 
 ```
 rake init
+mkdir db
+touch db/sensor.sqlite3
 ```
 
 ## Unit testing
